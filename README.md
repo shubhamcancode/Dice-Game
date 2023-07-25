@@ -1,2 +1,2 @@
 # Dice-Game
- Simple Dice Game
+ SImple Dice Game
